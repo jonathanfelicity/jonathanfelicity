@@ -6,7 +6,8 @@ I am a hardworking, honest individual, always willing to learn new skills. I am 
 
 
 
-
+| <a href="https://github.com/jonathan-felicity/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathan-felicity&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jonathan-felicity/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-felicity&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 ## Things I am passionate about
