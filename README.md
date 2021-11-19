@@ -13,8 +13,8 @@ I am a hardworking, honest individual, always willing to learn new skills. I am 
 
 ## Get in touch :coffee:
 
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/jfmurum).
-- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
+- Talking about computing [Twitter](https://twitter.com/jfmurum).
+- Trygin to share ideas [Dev](https://dev.to/jonathanfelicity).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/jonathan-felicity/)
 
 
