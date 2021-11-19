@@ -3,7 +3,7 @@ I am a hardworking, honest individual, always willing to learn new skills. I am 
 
 
 
-![Jonathan Felicity](https://github.com/jonathan-felicity/jonathan-felicity/blob/main/avatar.jpg)
+![Jonathan Felicity](https://github.com/jonathan-felicity/jonathan-felicity/blob/main/resource/code%20storm.gif)
 
 
 ## Things I am passionate about
