@@ -19,6 +19,6 @@ I am a hardworking, honest individual, always willing to learn new skills. I am 
 
 - Talking about computing [Twitter](https://twitter.com/jfmurum).
 - Trying to share ideas [Dev](https://dev.to/jonathanfelicity).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/jonathan-felicity/)
+- Your future employee on [LinkedIn](https://www.linkedin.com/in/jonathan-felicity/).
 
 
