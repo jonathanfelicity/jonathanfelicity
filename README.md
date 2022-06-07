@@ -1,4 +1,4 @@
-## What’s up 👋
+## What’s up <img src="https://github.com/jonathan-felicity/jonathan-felicity/blob/main/resource/wave.gif">
 
 ![Jonathan Felicity](https://github.com/jonathan-felicity/jonathan-felicity/blob/main/resource/code%20storm.gif)
 
