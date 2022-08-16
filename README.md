@@ -14,6 +14,7 @@ I am a hardworking, honest individual, always willing to learn new skills. I am 
 
 - Computer Science 🤷‍♀️
 - Playing Drums 🎶
+- Design 🌹
 
 ## Get in touch :coffee:
 
