@@ -19,6 +19,7 @@ I am a hardworking, honest individual, always willing to learn new skills. I am 
 ## Get in touch :coffee:
 
 - Talking about my previous project [Twitter](https://twitter.com/jfmurum).
+- Watch some of previous videos [Youtube](https://www.youtube.com/@jonathanfelicity).
 - Trying to share ideas [Dev](https://dev.to/jonathanfelicity).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/jonathanfelicity/).
 
