@@ -2,7 +2,8 @@
 
 ![Jonathan Felicity](https://github.com/jonathanfelicity/jonathanfelicity/blob/main/resource/code%20storm.gif)
 
-I am a hardworking, honest individual, always willing to learn new skills. I am committed to learning and self-development so I can consistently achieve better results.
+Hi there! I'm a software developer and tech enthusiast who loves to learn and create new things. I have a passion for coding and enjoy exploring different programming languages and technologies. On my GitHub profile, you'll find various projects that I've worked on, ranging from simple scripts to complex applications. I'm always looking to collaborate on new projects and connect with fellow developers, so feel free to reach out and say hello!
+
 
 
 
