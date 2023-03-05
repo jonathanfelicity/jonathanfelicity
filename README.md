@@ -11,6 +11,7 @@ I enjoy creating high-quality software solutions using a variety of programming 
 | ------------- | ------------- |
 
 
+
 ## Things I am passionate about
 
 - Computer Science 🤷‍♀️
