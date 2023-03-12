@@ -2,7 +2,7 @@
 
 ![Jonathan Felicity](https://github.com/jonathanfelicity/jonathanfelicity/blob/main/resource/code%20storm.gif)
 
-I enjoy creating high-quality software solutions using a variety of programming languages and technologies. On my GitHub, you'll find projects showcasing my skills, ranging from simple utilities to full-stack applications. I value clean code, collaboration, and continuous learning. Let's connect and discuss potential collaborations!
+I enjoy creating high-quality software solutions using a variety of programming languages and technologies. On my GitHub, you'll find projects showcasing my skills, ranging from simple utilities to full-stack applications. I value clean code, collaboration, and continuous learning. Let's connect and discuss potential collaborations!.
 
 
 
