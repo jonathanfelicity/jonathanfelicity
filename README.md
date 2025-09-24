@@ -8,12 +8,3 @@ I enjoy creating high-quality software solutions using a variety of programming 
 
 
 | <a href="https://github.com/jonathanfelicity/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanfelicity&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jonathan Felicity's github stats" /></a> | <a href="https://github.com/jonathanfelicity/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanfelicity&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
-
-## Things I am passionate about
-
-- Computer Science 🤷‍♀️
-- Playing Drums 🎶
-- Design 🌹
